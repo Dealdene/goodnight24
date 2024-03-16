@@ -17,6 +17,7 @@ class User < ApplicationRecord
   end
 
   def test
+    #again
   end
 end
 
